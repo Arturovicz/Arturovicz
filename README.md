@@ -1,5 +1,5 @@
 ![MasterHead](https://resources.altair.com/corp/images/trends_machine_learning_header_interior_desktop.jpg)
-<h1 align="center">Hi 👋, I'm Valery Arturovicz Dumanyan</h1>
+<h1 align="center">Hi 👋, I'm Valery Arturovìcz Dumanyan</h1>
 <h3 align="center">A General Engineering and Computer Science Student from France</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **valery.dumanyan@ecam-strasbourg.eu**
 
-- ⚡ Fun fact **I can freely communicate in 4 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
