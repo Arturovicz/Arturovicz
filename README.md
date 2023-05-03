@@ -34,7 +34,7 @@
 <details>
   <summary><b>:brain: &nbsp;Languages and Tools</b></summary>
 <br/>
-&nbsp;&nbsp;&nbsp; • Languages: Python, C++, Java, Golang, HTML/CSS/JavaScript
+&nbsp;&nbsp;&nbsp; • Languages: Python, C++, Java, Golang, HTML/CSS/JavaScript, PHP
    <br/> 
 &nbsp;&nbsp;&nbsp; • Database: SQL(MS Azure, MySQL, SQLite), noSQL(mongoDB)
   <br/> 
