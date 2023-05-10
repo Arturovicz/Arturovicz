@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [valery-arturovicz-dumanyan.dev](valery-arturovicz-dumanyan.dev)
 
-- 💬 Ask me about **Advanced Maths, Machine & Deep Learning**
+- 💬 Ask me about **Advanced Maths, Machine Learning & AI**
 
 - 📫 How to reach me **valery.dumanyan@ecam-strasbourg.eu**
 
@@ -36,9 +36,9 @@
 <br/>
 &nbsp;&nbsp;&nbsp; • Languages: Python, C++, Java, Golang, HTML/CSS/JavaScript, PHP
    <br/> 
-&nbsp;&nbsp;&nbsp; • Database: SQL(MS Azure, MySQL, SQLite), noSQL(mongoDB)
+&nbsp;&nbsp;&nbsp; • Database: SQL(MS Azure, AWS, MySQL, SQLite), noSQL(mongoDB)
   <br/> 
-&nbsp;&nbsp;&nbsp; • Frameworks/libraries: Tensorflow/Keras, Scikit-learn, dl4j, Pandas, django, Streamlit, Selenium, ReactJS, Tailwind CSS
+&nbsp;&nbsp;&nbsp; • Frameworks/libraries: Tensorflow/Keras, Scikit-learn, dl4j, Pandas, django, Streamlit, Selenium, NS4, ReactJS, Tailwind CSS
   <br/> 
 &nbsp;&nbsp;&nbsp; • Tools: Docker, Git, Shell Script, Talend, MS Office/Excel, VBA(Excel), Power BI, Jupyter
 </details>
