@@ -38,7 +38,7 @@
    <br/> 
 &nbsp;&nbsp;&nbsp; • Database: SQL(MS Azure, AWS, MySQL, SQLite), noSQL(mongoDB)
   <br/> 
-&nbsp;&nbsp;&nbsp; • Frameworks/libraries: Tensorflow/Keras, Scikit-learn, dl4j, Pandas, django, Streamlit, Selenium, NS4, ReactJS, Tailwind CSS
+&nbsp;&nbsp;&nbsp; • Frameworks/libraries: Tensorflow/Keras, Scikit-learn, dl4j, Pandas, django, Streamlit, Selenium, BS4, Zipline, ReactJS, Tailwind CSS
   <br/> 
 &nbsp;&nbsp;&nbsp; • Tools: Docker, Git, Shell Script, Talend, MS Office/Excel, VBA(Excel), Power BI, Jupyter
 </details>
