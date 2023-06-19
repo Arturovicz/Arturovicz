@@ -44,4 +44,17 @@
 </details>
 
  
-
+<details>
+  <summary><b>:beginner: &nbsp;Stats</b></summary>
+<p align="center">
+  <a href="https://github.com/arturovicz">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arturovicz&theme=transparent" />
+  </a>
+  <a href="https://github.com/arturovicz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arturovicz&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/arturovicz">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arturovicz&theme=transparent" />
+  </a>
+</p>
+</details>
