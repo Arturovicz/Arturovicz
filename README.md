@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [valery-arturovicz-dumanyan.dev](valery-arturovicz-dumanyan.dev)
+- 👨‍💻 All of my projects are available at [valery-arturovicz-dumanyan.dev](https://valery-arturovicz-dumanyan.dev/)
 
 - 💬 Ask me about **Advanced Maths, Machine Learning & AI**
 
@@ -24,7 +24,7 @@
 <hr/>
 
 <details>
-  <summary><b>:hammer_and_wrench: &nbsp;Connect with me</b></summary>
+  <summary><b>:spider_web: &nbsp;Connect with me</b></summary>
 <br/>
 &nbsp;&nbsp;&nbsp<a href="https://twitter.com/arturovicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arturovicz" height="30" width="40" /></a><a href="https://linkedin.com/in/valery-dumanyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valery-dumanyan" height="30" width="40" /></a>
 <a href="https://instagram.com/v.arturovicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.arturovicz" height="30" width="40" /></a>
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Languages and Tools</b></summary>
+  <summary><b>:hammer_and_wrench: &nbsp;Languages and Tools</b></summary>
 <br/>
 &nbsp;&nbsp;&nbsp; • Languages: Python, C++, Java, Golang, HTML/CSS/JavaScript, PHP
    <br/> 
