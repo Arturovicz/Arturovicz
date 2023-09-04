@@ -12,7 +12,7 @@
 <h3 align="center">A Financial Engineering and Computer Science Student from France</h3>
 
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [valery-arturovicz-dumanyan.dev](https://valery-arturovicz-dumanyan.dev/)
 
