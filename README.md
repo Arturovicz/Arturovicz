@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [valery-arturovicz-dumanyan.dev](https://valery-arturovicz-dumanyan.dev/)
 
-- 💬 Ask me about **Financial Engineering, Software Development and Machine Learning**
+- 💬 Ask me about **Qunatitative Finance, Data Science and Software Development**
 
 - 📫 How to reach me **valery.dumanyan@ecam-strasbourg.eu**
 
@@ -34,13 +34,13 @@
 <details>
   <summary><b>:hammer_and_wrench: &nbsp;Languages and Tools</b></summary>
 <br/>
-&nbsp;&nbsp;&nbsp; • Languages: Python, C++, Java, Golang, HTML/CSS/JavaScript, PHP
+&nbsp;&nbsp;&nbsp; • Languages: Python, C#, Java, Golang, HTML/CSS/JavaScript, PHP
    <br/> 
-&nbsp;&nbsp;&nbsp; • Database: SQL(MS Azure, AWS, MySQL, SQLite), noSQL(mongoDB)
+&nbsp;&nbsp;&nbsp; • Database Management: SQL(MS Azure, AWS, MySQL, SQLite), NoSQL(mongoDB)
   <br/> 
-&nbsp;&nbsp;&nbsp; • Frameworks/libraries: Tensorflow/Keras, Scikit-learn, dl4j, Pandas, django, Streamlit, Selenium, BS4, Zipline, ReactJS, Tailwind CSS
+&nbsp;&nbsp;&nbsp; • Frameworks/libraries: Pandas, Numpy, Scipy, Tensorflow/Keras, Scikit-learn, Django, Streamlit, Selenium, BS4, .NET 5.0+, QLNet
   <br/> 
-&nbsp;&nbsp;&nbsp; • Tools: Docker, Git, Shell Script, Talend, MS Office/Excel, VBA(Excel), Power BI, Jupyter
+&nbsp;&nbsp;&nbsp; • Tools: Git, Shell Script, Docker, Jupyter, Talend, MS Office/Excel, VBA(Excel), Power BI
 </details>
 
  
