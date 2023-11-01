@@ -36,11 +36,11 @@
 <br/>
 &nbsp;&nbsp;&nbsp; • Languages: Python, C#, Java, Golang, HTML/CSS/JavaScript, PHP
    <br/> 
-&nbsp;&nbsp;&nbsp; • Database Management: SQL(MS Azure, AWS, MySQL, SQLite), NoSQL(mongoDB)
+&nbsp;&nbsp;&nbsp; • Database Management: SQL(SQLite, MySQL), NoSQL(mongoDB)
   <br/> 
-&nbsp;&nbsp;&nbsp; • Frameworks/libraries: Pandas, Numpy, Scipy, Tensorflow/Keras, Scikit-learn, Django, Streamlit, Selenium, BS4, .NET 5.0+, QLNet
+&nbsp;&nbsp;&nbsp; • Frameworks/libraries: Pandas, Numpy, Scipy, Tensorflow/Keras, Scikit-learn, Django, Streamlit, Selenium, BS4, .NET 5.0+
   <br/> 
-&nbsp;&nbsp;&nbsp; • Tools: Git, Shell Script, Docker, Jupyter, Talend, MS Office/Excel, VBA(Excel), Power BI
+&nbsp;&nbsp;&nbsp; • Tools: Git, Shell Script, Docker, Jupyter, Talend, MS Office/Excel, VBA(Excel), Power BI, AWS Aurora
 </details>
 
  
