@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [valery-arturovicz-dumanyan.dev](https://valery-arturovicz-dumanyan.dev/)
 
-- 💬 Ask me about **Financial Markets, Data Science, Blockchain and Software Development**
+- 💬 Ask me about **Financial Markets, Blockchain and Software Development**
 
 - 📫 How to reach me **valery.dumanyan@ecam-strasbourg.eu**
 
