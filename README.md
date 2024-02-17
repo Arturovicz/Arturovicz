@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Financial Markets, Blockchain and Software Development**
 
-- 📫 How to reach me **valery.dumanyan@ecam-strasbourg.eu**
+- 📫 How to reach me **valery.a.dumanyan@gmail.com**
 
 
 <hr/>
