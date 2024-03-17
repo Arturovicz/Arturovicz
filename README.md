@@ -40,5 +40,5 @@
   <br/> 
 &nbsp;&nbsp;&nbsp; • Frameworks/libraries: Pandas, Numpy, Scipy, Tensorflow/Keras, Scikit-learn, Django, Streamlit, Selenium, BS4, .NET 5.0+
   <br/> 
-&nbsp;&nbsp;&nbsp; • Tools: Git, Shell Script, Docker, Jupyter, Talend, MS Office/Excel, VBA(Excel), Power BI, AWS
+&nbsp;&nbsp;&nbsp; • Tools: Git, Shell Script, Docker, Jupyter, Talend, Bloomberg Terminal, MS Office/Excel, VBA(Excel), Power BI, AWS
 </details>
