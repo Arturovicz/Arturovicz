@@ -8,15 +8,15 @@
 ```
 
 <hr/>
-<h1 align="center">Hi 👋, I'm Valery Arturovìcz Dumanyan</h1>
+<h1 align="center">I'm Valery Arturovìcz Dumanyan</h1>
 <h3 align="center">A Financial Engineering and Computer Science Student from France</h3>
 
 
-- 🌱 I’m currently working on **Bridge**
+- 🌱 Currently working on **Bridge**
 
 - 👨‍💻 All of my projects are available at [valery-arturovicz-dumanyan.dev](https://valery-arturovicz-dumanyan.dev/)
 
-- 💬 Ask me about **Financial Markets, Blockchain and Software Development**
+- 💬 Ask me about **Financial Markets, Market Making, Blockchain and Software Development**
 
 - 📫 How to reach me **valery.a.dumanyan@gmail.com**
 
