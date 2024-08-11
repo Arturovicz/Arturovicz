@@ -12,11 +12,11 @@
 <h3 align="center">A Financial Engineering and Computer Science Student from France</h3>
 
 
-- 🌱 Currently working on **Bridge**
+- 🌱 Currently working on **[Bridge](https://valery-arturovicz-dumanyan.dev/)**
 
 - 👨‍💻 All of my projects are available at [valery-arturovicz-dumanyan.dev](https://valery-arturovicz-dumanyan.dev/)
 
-- 💬 Ask me about **Financial Markets, Market Making, Blockchain and Software Development**
+- 💬 Ask me about **Financial Markets/Market Making, Blockchain and Software Development**
 
 - 📫 How to reach me **valery.a.dumanyan@gmail.com**
 
