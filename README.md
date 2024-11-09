@@ -12,11 +12,11 @@
 <h3 align="center">A Financial Engineering and Computer Science Student from France</h3>
 
 
-- 🌱 Currently working on **[Bridge](https://valery-arturovicz-dumanyan.dev/)**
+- 🌱 Currently working on **[Bridge](https://thebridgecompany.vercel.app/)**
 
 - 👨‍💻 All of my projects are available at [valery-arturovicz-dumanyan.dev](https://valery-arturovicz-dumanyan.dev/)
 
-- 💬 Ask me about **Financial Markets/Market Making, Blockchain and Software Development**
+- 💬 Ask me about **Financial Markets - Market Making, Algorithmic Trading & Software Development**
 
 - 📫 How to reach me **valery.a.dumanyan@gmail.com**
 
@@ -34,11 +34,11 @@
 <details>
   <summary><b>:hammer_and_wrench: &nbsp;Languages and Tools</b></summary>
 <br/>
-&nbsp;&nbsp;&nbsp; • Languages: Python, C#, Java, Golang, HTML/CSS/JavaScript, PHP
+&nbsp;&nbsp;&nbsp; • Languages: Python, C#, CPP, Java, Golang, HTML/CSS/JavaScript, PHP
    <br/> 
-&nbsp;&nbsp;&nbsp; • Database Management: SQL(SQLite, MySQL), NoSQL(mongoDB)
+&nbsp;&nbsp;&nbsp; • Database Management: SQL(MySQL, SQLite, PostgreSQL), NoSQL(mongoDB)
   <br/> 
-&nbsp;&nbsp;&nbsp; • Frameworks/libraries: Pandas, Numpy, Scipy, Tensorflow/Keras, Scikit-learn, Django, Streamlit, Selenium, BS4, .NET 5.0+
+&nbsp;&nbsp;&nbsp; • Frameworks/libraries: Pandas, Numpy, Scipy, Tensorflow/Keras, Scikit-learn, Cython, Django, Streamlit, Selenium, BS4, .NET 5.0+
   <br/> 
 &nbsp;&nbsp;&nbsp; • Tools: Git, Shell Script, Docker, Jupyter, Talend, Bloomberg Terminal, MS Office/Excel, VBA(Excel), Power BI, AWS
 </details>
