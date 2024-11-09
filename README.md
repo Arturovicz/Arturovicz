@@ -8,7 +8,7 @@
 ```
 
 <hr/>
-<h1 align="center">I'm Valery Arturovìcz Dumanyan</h1>
+<h1 align="center">I'm Valery A. Dumanyan</h1>
 <h3 align="center">A Financial Engineering and Computer Science Student from France</h3>
 
 
