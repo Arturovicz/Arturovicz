@@ -1,4 +1,3 @@
-<hr/>
 <h1 align="center">I'm Valery A. Dumanyan</h1>
 <h3 align="center">Graduate Financial Engineering and Computer Science</h3>
 
